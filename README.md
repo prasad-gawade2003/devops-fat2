@@ -103,12 +103,12 @@ git commit -m "Initial commit with Dockerfile and README"
 
 # Create a new empty GitHub repository:
 
-https://github.com/Vivek-Chudasama/devops-docker-linux
+https://github.com/prasad-gawade2003/devops-fat2.git
 
 # Then run:
 
 git branch -M main
-git remote add origin https://github.com/Vivek-Chudasama/devops-docker-linux.git
+git remote add origin https://github.com/prasad-gawade2003/devops-fat2.git
 git push -u origin main
 
 *3. How This Assignment Helps Me Learn DevOps, Linux, Git, and Docker*
@@ -139,16 +139,6 @@ Ran a container and observed its output.
 
 Learned how Docker isolates and executes environments.
 
-## Final Summary
+# Docker Hub Link:
 
-This assignment helped me understand:
-
-How to write a Dockerfile
-
-How to run Linux commands inside Docker
-
-How to build and run Docker images
-
-How to use Git and GitHub properly
-
-How DevOps concepts apply to real tasks
+https://hub.docker.com/r/pglorddocker/linux-basic-commands
